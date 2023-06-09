@@ -1,0 +1,515 @@
+[25-Feb-2023 07:16:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function is_block_editor() on null in /home/kaurswor/public_html/wp-includes/script-loader.php:2465
+Stack trace:
+#0 /home/kaurswor/public_html/wp-includes/class-wp-hook.php(308): wp_global_styles_render_svg_filters('')
+#1 /home/kaurswor/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#2 /home/kaurswor/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/kaurswor/public_html/wp-includes/general-template.php(3075): do_action('wp_body_open')
+#4 /home/kaurswor/public_html/wp-content/themes/kaursworld2023/template-parts/desktop-header.php(25): wp_body_open()
+#5 /home/kaurswor/public_html/wp-includes/template.php(785): require('/home/kaurswor/...')
+#6 /home/kaurswor/public_html/wp-includes/template.php(718): load_template('/home/kaurswor/...', false, Array)
+#7 /home/kaurswor/public_html/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#8 /home/kaurswor/public_html/wp-content/themes/kaursworld in /home/kaurswor/public_html/wp-includes/script-loader.php on line 2465
+[25-Feb-2023 07:16:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function is_block_editor() on null in /home/kaurswor/public_html/wp-includes/script-loader.php:2465
+Stack trace:
+#0 /home/kaurswor/public_html/wp-includes/class-wp-hook.php(308): wp_global_styles_render_svg_filters('')
+#1 /home/kaurswor/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#2 /home/kaurswor/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/kaurswor/public_html/wp-includes/general-template.php(3075): do_action('wp_body_open')
+#4 /home/kaurswor/public_html/wp-content/themes/kaursworld2023/template-parts/desktop-header.php(25): wp_body_open()
+#5 /home/kaurswor/public_html/wp-includes/template.php(785): require('/home/kaurswor/...')
+#6 /home/kaurswor/public_html/wp-includes/template.php(718): load_template('/home/kaurswor/...', false, Array)
+#7 /home/kaurswor/public_html/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#8 /home/kaurswor/public_html/wp-content/themes/kaursworld in /home/kaurswor/public_html/wp-includes/script-loader.php on line 2465
+[25-Feb-2023 07:16:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function is_block_editor() on null in /home/kaurswor/public_html/wp-includes/script-loader.php:2465
+Stack trace:
+#0 /home/kaurswor/public_html/wp-includes/class-wp-hook.php(308): wp_global_styles_render_svg_filters('')
+#1 /home/kaurswor/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#2 /home/kaurswor/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/kaurswor/public_html/wp-includes/general-template.php(3075): do_action('wp_body_open')
+#4 /home/kaurswor/public_html/wp-content/themes/kaursworld2023/template-parts/desktop-header.php(25): wp_body_open()
+#5 /home/kaurswor/public_html/wp-includes/template.php(785): require('/home/kaurswor/...')
+#6 /home/kaurswor/public_html/wp-includes/template.php(718): load_template('/home/kaurswor/...', false, Array)
+#7 /home/kaurswor/public_html/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#8 /home/kaurswor/public_html/wp-content/themes/kaursworld in /home/kaurswor/public_html/wp-includes/script-loader.php on line 2465
+[25-Feb-2023 07:16:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function is_block_editor() on null in /home/kaurswor/public_html/wp-includes/script-loader.php:2465
+Stack trace:
+#0 /home/kaurswor/public_html/wp-includes/class-wp-hook.php(308): wp_global_styles_render_svg_filters('')
+#1 /home/kaurswor/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#2 /home/kaurswor/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/kaurswor/public_html/wp-includes/general-template.php(3075): do_action('wp_body_open')
+#4 /home/kaurswor/public_html/wp-content/themes/kaursworld2023/template-parts/desktop-header.php(25): wp_body_open()
+#5 /home/kaurswor/public_html/wp-includes/template.php(785): require('/home/kaurswor/...')
+#6 /home/kaurswor/public_html/wp-includes/template.php(718): load_template('/home/kaurswor/...', false, Array)
+#7 /home/kaurswor/public_html/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#8 /home/kaurswor/public_html/wp-content/themes/kaursworld in /home/kaurswor/public_html/wp-includes/script-loader.php on line 2465
+[25-Feb-2023 07:16:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function is_block_editor() on null in /home/kaurswor/public_html/wp-includes/script-loader.php:2465
+Stack trace:
+#0 /home/kaurswor/public_html/wp-includes/class-wp-hook.php(308): wp_global_styles_render_svg_filters('')
+#1 /home/kaurswor/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#2 /home/kaurswor/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/kaurswor/public_html/wp-includes/general-template.php(3075): do_action('wp_body_open')
+#4 /home/kaurswor/public_html/wp-content/themes/kaursworld2023/template-parts/desktop-header.php(25): wp_body_open()
+#5 /home/kaurswor/public_html/wp-includes/template.php(785): require('/home/kaurswor/...')
+#6 /home/kaurswor/public_html/wp-includes/template.php(718): load_template('/home/kaurswor/...', false, Array)
+#7 /home/kaurswor/public_html/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#8 /home/kaurswor/public_html/wp-content/themes/kaursworld in /home/kaurswor/public_html/wp-includes/script-loader.php on line 2465
+[25-Feb-2023 07:16:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function is_block_editor() on null in /home/kaurswor/public_html/wp-includes/script-loader.php:2465
+Stack trace:
+#0 /home/kaurswor/public_html/wp-includes/class-wp-hook.php(308): wp_global_styles_render_svg_filters('')
+#1 /home/kaurswor/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#2 /home/kaurswor/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/kaurswor/public_html/wp-includes/general-template.php(3075): do_action('wp_body_open')
+#4 /home/kaurswor/public_html/wp-content/themes/kaursworld2023/template-parts/desktop-header.php(25): wp_body_open()
+#5 /home/kaurswor/public_html/wp-includes/template.php(785): require('/home/kaurswor/...')
+#6 /home/kaurswor/public_html/wp-includes/template.php(718): load_template('/home/kaurswor/...', false, Array)
+#7 /home/kaurswor/public_html/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#8 /home/kaurswor/public_html/wp-content/themes/kaursworld in /home/kaurswor/public_html/wp-includes/script-loader.php on line 2465
+[25-Feb-2023 07:16:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function is_block_editor() on null in /home/kaurswor/public_html/wp-includes/script-loader.php:2465
+Stack trace:
+#0 /home/kaurswor/public_html/wp-includes/class-wp-hook.php(308): wp_global_styles_render_svg_filters('')
+#1 /home/kaurswor/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#2 /home/kaurswor/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/kaurswor/public_html/wp-includes/general-template.php(3075): do_action('wp_body_open')
+#4 /home/kaurswor/public_html/wp-content/themes/kaursworld2023/template-parts/desktop-header.php(25): wp_body_open()
+#5 /home/kaurswor/public_html/wp-includes/template.php(785): require('/home/kaurswor/...')
+#6 /home/kaurswor/public_html/wp-includes/template.php(718): load_template('/home/kaurswor/...', false, Array)
+#7 /home/kaurswor/public_html/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#8 /home/kaurswor/public_html/wp-content/themes/kaursworld in /home/kaurswor/public_html/wp-includes/script-loader.php on line 2465
+[25-Feb-2023 07:16:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function is_block_editor() on null in /home/kaurswor/public_html/wp-includes/script-loader.php:2465
+Stack trace:
+#0 /home/kaurswor/public_html/wp-includes/class-wp-hook.php(308): wp_global_styles_render_svg_filters('')
+#1 /home/kaurswor/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#2 /home/kaurswor/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/kaurswor/public_html/wp-includes/general-template.php(3075): do_action('wp_body_open')
+#4 /home/kaurswor/public_html/wp-content/themes/kaursworld2023/template-parts/desktop-header.php(25): wp_body_open()
+#5 /home/kaurswor/public_html/wp-includes/template.php(785): require('/home/kaurswor/...')
+#6 /home/kaurswor/public_html/wp-includes/template.php(718): load_template('/home/kaurswor/...', false, Array)
+#7 /home/kaurswor/public_html/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#8 /home/kaurswor/public_html/wp-content/themes/kaursworld in /home/kaurswor/public_html/wp-includes/script-loader.php on line 2465
+[25-Feb-2023 07:16:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function is_block_editor() on null in /home/kaurswor/public_html/wp-includes/script-loader.php:2465
+Stack trace:
+#0 /home/kaurswor/public_html/wp-includes/class-wp-hook.php(308): wp_global_styles_render_svg_filters('')
+#1 /home/kaurswor/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#2 /home/kaurswor/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/kaurswor/public_html/wp-includes/general-template.php(3075): do_action('wp_body_open')
+#4 /home/kaurswor/public_html/wp-content/themes/kaursworld2023/template-parts/mobile-header.php(25): wp_body_open()
+#5 /home/kaurswor/public_html/wp-includes/template.php(785): require('/home/kaurswor/...')
+#6 /home/kaurswor/public_html/wp-includes/template.php(718): load_template('/home/kaurswor/...', false, Array)
+#7 /home/kaurswor/public_html/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#8 /home/kaurswor/public_html/wp-content/themes/kaursworld2 in /home/kaurswor/public_html/wp-includes/script-loader.php on line 2465
+[25-Feb-2023 07:16:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function is_block_editor() on null in /home/kaurswor/public_html/wp-includes/script-loader.php:2465
+Stack trace:
+#0 /home/kaurswor/public_html/wp-includes/class-wp-hook.php(308): wp_global_styles_render_svg_filters('')
+#1 /home/kaurswor/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#2 /home/kaurswor/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/kaurswor/public_html/wp-includes/general-template.php(3075): do_action('wp_body_open')
+#4 /home/kaurswor/public_html/wp-content/themes/kaursworld2023/template-parts/mobile-header.php(25): wp_body_open()
+#5 /home/kaurswor/public_html/wp-includes/template.php(785): require('/home/kaurswor/...')
+#6 /home/kaurswor/public_html/wp-includes/template.php(718): load_template('/home/kaurswor/...', false, Array)
+#7 /home/kaurswor/public_html/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#8 /home/kaurswor/public_html/wp-content/themes/kaursworld2 in /home/kaurswor/public_html/wp-includes/script-loader.php on line 2465
+[25-Feb-2023 07:16:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function is_block_editor() on null in /home/kaurswor/public_html/wp-includes/script-loader.php:2465
+Stack trace:
+#0 /home/kaurswor/public_html/wp-includes/class-wp-hook.php(308): wp_global_styles_render_svg_filters('')
+#1 /home/kaurswor/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#2 /home/kaurswor/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/kaurswor/public_html/wp-includes/general-template.php(3075): do_action('wp_body_open')
+#4 /home/kaurswor/public_html/wp-content/themes/kaursworld2023/template-parts/mobile-header.php(25): wp_body_open()
+#5 /home/kaurswor/public_html/wp-includes/template.php(785): require('/home/kaurswor/...')
+#6 /home/kaurswor/public_html/wp-includes/template.php(718): load_template('/home/kaurswor/...', false, Array)
+#7 /home/kaurswor/public_html/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#8 /home/kaurswor/public_html/wp-content/themes/kaursworld2 in /home/kaurswor/public_html/wp-includes/script-loader.php on line 2465
+[25-Feb-2023 07:16:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function is_block_editor() on null in /home/kaurswor/public_html/wp-includes/script-loader.php:2465
+Stack trace:
+#0 /home/kaurswor/public_html/wp-includes/class-wp-hook.php(308): wp_global_styles_render_svg_filters('')
+#1 /home/kaurswor/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#2 /home/kaurswor/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/kaurswor/public_html/wp-includes/general-template.php(3075): do_action('wp_body_open')
+#4 /home/kaurswor/public_html/wp-content/themes/kaursworld2023/template-parts/mobile-header.php(25): wp_body_open()
+#5 /home/kaurswor/public_html/wp-includes/template.php(785): require('/home/kaurswor/...')
+#6 /home/kaurswor/public_html/wp-includes/template.php(718): load_template('/home/kaurswor/...', false, Array)
+#7 /home/kaurswor/public_html/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#8 /home/kaurswor/public_html/wp-content/themes/kaursworld2 in /home/kaurswor/public_html/wp-includes/script-loader.php on line 2465
+[25-Feb-2023 07:16:45 UTC] PHP Fatal error:  Uncaught Error: Call to a member function is_block_editor() on null in /home/kaurswor/public_html/wp-includes/script-loader.php:2465
+Stack trace:
+#0 /home/kaurswor/public_html/wp-includes/class-wp-hook.php(308): wp_global_styles_render_svg_filters('')
+#1 /home/kaurswor/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#2 /home/kaurswor/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/kaurswor/public_html/wp-includes/general-template.php(3075): do_action('wp_body_open')
+#4 /home/kaurswor/public_html/wp-content/themes/kaursworld2023/template-parts/mobile-header.php(25): wp_body_open()
+#5 /home/kaurswor/public_html/wp-includes/template.php(785): require('/home/kaurswor/...')
+#6 /home/kaurswor/public_html/wp-includes/template.php(718): load_template('/home/kaurswor/...', false, Array)
+#7 /home/kaurswor/public_html/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#8 /home/kaurswor/public_html/wp-content/themes/kaursworld2 in /home/kaurswor/public_html/wp-includes/script-loader.php on line 2465
+[25-Feb-2023 07:16:46 UTC] PHP Fatal error:  Uncaught Error: Call to a member function is_block_editor() on null in /home/kaurswor/public_html/wp-includes/script-loader.php:2465
+Stack trace:
+#0 /home/kaurswor/public_html/wp-includes/class-wp-hook.php(308): wp_global_styles_render_svg_filters('')
+#1 /home/kaurswor/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#2 /home/kaurswor/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/kaurswor/public_html/wp-includes/general-template.php(3075): do_action('wp_body_open')
+#4 /home/kaurswor/public_html/wp-content/themes/kaursworld2023/template-parts/mobile-header.php(25): wp_body_open()
+#5 /home/kaurswor/public_html/wp-includes/template.php(785): require('/home/kaurswor/...')
+#6 /home/kaurswor/public_html/wp-includes/template.php(718): load_template('/home/kaurswor/...', false, Array)
+#7 /home/kaurswor/public_html/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#8 /home/kaurswor/public_html/wp-content/themes/kaursworld2 in /home/kaurswor/public_html/wp-includes/script-loader.php on line 2465
+[25-Feb-2023 07:17:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function is_block_editor() on null in /home/kaurswor/public_html/wp-includes/script-loader.php:2465
+Stack trace:
+#0 /home/kaurswor/public_html/wp-includes/class-wp-hook.php(308): wp_global_styles_render_svg_filters('')
+#1 /home/kaurswor/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#2 /home/kaurswor/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/kaurswor/public_html/wp-includes/general-template.php(3075): do_action('wp_body_open')
+#4 /home/kaurswor/public_html/wp-content/themes/kaursworld2023/template-parts/mobile-header.php(25): wp_body_open()
+#5 /home/kaurswor/public_html/wp-includes/template.php(785): require('/home/kaurswor/...')
+#6 /home/kaurswor/public_html/wp-includes/template.php(718): load_template('/home/kaurswor/...', false, Array)
+#7 /home/kaurswor/public_html/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#8 /home/kaurswor/public_html/wp-content/themes/kaursworld2 in /home/kaurswor/public_html/wp-includes/script-loader.php on line 2465
+[25-Feb-2023 07:18:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function is_block_editor() on null in /home/kaurswor/public_html/wp-includes/script-loader.php:2465
+Stack trace:
+#0 /home/kaurswor/public_html/wp-includes/class-wp-hook.php(308): wp_global_styles_render_svg_filters('')
+#1 /home/kaurswor/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#2 /home/kaurswor/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/kaurswor/public_html/wp-includes/general-template.php(3075): do_action('wp_body_open')
+#4 /home/kaurswor/public_html/wp-content/themes/kaursworld2023/template-parts/mobile-header.php(25): wp_body_open()
+#5 /home/kaurswor/public_html/wp-includes/template.php(785): require('/home/kaurswor/...')
+#6 /home/kaurswor/public_html/wp-includes/template.php(718): load_template('/home/kaurswor/...', false, Array)
+#7 /home/kaurswor/public_html/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#8 /home/kaurswor/public_html/wp-content/themes/kaursworld2 in /home/kaurswor/public_html/wp-includes/script-loader.php on line 2465
+[25-Feb-2023 07:18:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function is_block_editor() on null in /home/kaurswor/public_html/wp-includes/script-loader.php:2465
+Stack trace:
+#0 /home/kaurswor/public_html/wp-includes/class-wp-hook.php(308): wp_global_styles_render_svg_filters('')
+#1 /home/kaurswor/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#2 /home/kaurswor/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/kaurswor/public_html/wp-includes/general-template.php(3075): do_action('wp_body_open')
+#4 /home/kaurswor/public_html/wp-content/themes/kaursworld2023/template-parts/mobile-header.php(25): wp_body_open()
+#5 /home/kaurswor/public_html/wp-includes/template.php(785): require('/home/kaurswor/...')
+#6 /home/kaurswor/public_html/wp-includes/template.php(718): load_template('/home/kaurswor/...', false, Array)
+#7 /home/kaurswor/public_html/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#8 /home/kaurswor/public_html/wp-content/themes/kaursworld2 in /home/kaurswor/public_html/wp-includes/script-loader.php on line 2465
+[25-Feb-2023 07:19:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function is_block_editor() on null in /home/kaurswor/public_html/wp-includes/script-loader.php:2465
+Stack trace:
+#0 /home/kaurswor/public_html/wp-includes/class-wp-hook.php(308): wp_global_styles_render_svg_filters('')
+#1 /home/kaurswor/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#2 /home/kaurswor/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/kaurswor/public_html/wp-includes/general-template.php(3075): do_action('wp_body_open')
+#4 /home/kaurswor/public_html/wp-content/themes/kaursworld2023/template-parts/mobile-header.php(25): wp_body_open()
+#5 /home/kaurswor/public_html/wp-includes/template.php(785): require('/home/kaurswor/...')
+#6 /home/kaurswor/public_html/wp-includes/template.php(718): load_template('/home/kaurswor/...', false, Array)
+#7 /home/kaurswor/public_html/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#8 /home/kaurswor/public_html/wp-content/themes/kaursworld2 in /home/kaurswor/public_html/wp-includes/script-loader.php on line 2465
+[25-Feb-2023 07:20:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function is_block_editor() on null in /home/kaurswor/public_html/wp-includes/script-loader.php:2465
+Stack trace:
+#0 /home/kaurswor/public_html/wp-includes/class-wp-hook.php(308): wp_global_styles_render_svg_filters('')
+#1 /home/kaurswor/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#2 /home/kaurswor/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/kaurswor/public_html/wp-includes/general-template.php(3075): do_action('wp_body_open')
+#4 /home/kaurswor/public_html/wp-content/themes/kaursworld2023/template-parts/mobile-header.php(25): wp_body_open()
+#5 /home/kaurswor/public_html/wp-includes/template.php(785): require('/home/kaurswor/...')
+#6 /home/kaurswor/public_html/wp-includes/template.php(718): load_template('/home/kaurswor/...', false, Array)
+#7 /home/kaurswor/public_html/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#8 /home/kaurswor/public_html/wp-content/themes/kaursworld2 in /home/kaurswor/public_html/wp-includes/script-loader.php on line 2465
+[25-Feb-2023 07:20:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function is_block_editor() on null in /home/kaurswor/public_html/wp-includes/script-loader.php:2465
+Stack trace:
+#0 /home/kaurswor/public_html/wp-includes/class-wp-hook.php(308): wp_global_styles_render_svg_filters('')
+#1 /home/kaurswor/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#2 /home/kaurswor/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/kaurswor/public_html/wp-includes/general-template.php(3075): do_action('wp_body_open')
+#4 /home/kaurswor/public_html/wp-content/themes/kaursworld2023/template-parts/mobile-header.php(25): wp_body_open()
+#5 /home/kaurswor/public_html/wp-includes/template.php(785): require('/home/kaurswor/...')
+#6 /home/kaurswor/public_html/wp-includes/template.php(718): load_template('/home/kaurswor/...', false, Array)
+#7 /home/kaurswor/public_html/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#8 /home/kaurswor/public_html/wp-content/themes/kaursworld2 in /home/kaurswor/public_html/wp-includes/script-loader.php on line 2465
+[25-Feb-2023 07:20:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function is_block_editor() on null in /home/kaurswor/public_html/wp-includes/script-loader.php:2465
+Stack trace:
+#0 /home/kaurswor/public_html/wp-includes/class-wp-hook.php(308): wp_global_styles_render_svg_filters('')
+#1 /home/kaurswor/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#2 /home/kaurswor/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/kaurswor/public_html/wp-includes/general-template.php(3075): do_action('wp_body_open')
+#4 /home/kaurswor/public_html/wp-content/themes/kaursworld2023/template-parts/desktop-header.php(25): wp_body_open()
+#5 /home/kaurswor/public_html/wp-includes/template.php(785): require('/home/kaurswor/...')
+#6 /home/kaurswor/public_html/wp-includes/template.php(718): load_template('/home/kaurswor/...', false, Array)
+#7 /home/kaurswor/public_html/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#8 /home/kaurswor/public_html/wp-content/themes/kaursworld in /home/kaurswor/public_html/wp-includes/script-loader.php on line 2465
+[25-Feb-2023 07:20:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function is_block_editor() on null in /home/kaurswor/public_html/wp-includes/script-loader.php:2465
+Stack trace:
+#0 /home/kaurswor/public_html/wp-includes/class-wp-hook.php(308): wp_global_styles_render_svg_filters('')
+#1 /home/kaurswor/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#2 /home/kaurswor/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/kaurswor/public_html/wp-includes/general-template.php(3075): do_action('wp_body_open')
+#4 /home/kaurswor/public_html/wp-content/themes/kaursworld2023/template-parts/desktop-header.php(25): wp_body_open()
+#5 /home/kaurswor/public_html/wp-includes/template.php(785): require('/home/kaurswor/...')
+#6 /home/kaurswor/public_html/wp-includes/template.php(718): load_template('/home/kaurswor/...', false, Array)
+#7 /home/kaurswor/public_html/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#8 /home/kaurswor/public_html/wp-content/themes/kaursworld in /home/kaurswor/public_html/wp-includes/script-loader.php on line 2465
+[25-Feb-2023 12:35:41 UTC] PHP Parse error:  syntax error, unexpected 'Walker' (T_STRING) in /home/kaurswor/public_html/wp-content/themes/kaursworld2023/wp_bootstrap_navwalker.php on line 1
+[25-Feb-2023 12:35:42 UTC] PHP Parse error:  syntax error, unexpected 'Walker' (T_STRING) in /home/kaurswor/public_html/wp-content/themes/kaursworld2023/wp_bootstrap_navwalker.php on line 1
+[11-Mar-2023 06:37:13 UTC] WordPress database error Commands out of sync; you can't run this command now for query SELECT * FROM wp43_users WHERE user_login = 'kausworld' LIMIT 1 made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, Yoast_Notification_Center->update_storage, Yoast_Notification_Center->remove_storage, Yoast_Notification_Center->has_stored_notifications, Yoast_Notification_Center->get_stored_notifications, get_current_user_id, wp_get_current_user, _wp_get_current_user, apply_filters('determine_current_user'), WP_Hook->apply_filters, wp_validate_auth_cookie, get_user_by, WP_User::get_data_by
+[11-Mar-2023 06:37:13 UTC] WordPress database error Commands out of sync; you can't run this command now for query SELECT * FROM wp43_users WHERE user_login = 'kausworld' LIMIT 1 made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, Yoast_Notification_Center->update_storage, Yoast_Notification_Center->remove_storage, Yoast_Notification_Center->has_stored_notifications, Yoast_Notification_Center->get_stored_notifications, get_current_user_id, wp_get_current_user, _wp_get_current_user, apply_filters('determine_current_user'), WP_Hook->apply_filters, wp_validate_logged_in_cookie, wp_validate_auth_cookie, get_user_by, WP_User::get_data_by
+[11-Mar-2023 09:06:25 UTC] PHP Notice:  Function WP_Object_Cache::delete was called <strong>incorrectly</strong>. Cache key must be integer or non-empty string, NULL given. Please see <a href="https://wordpress.org/support/article/debugging-in-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 6.1.0.) in /home/kaurswor/public_html/wp-includes/functions.php on line 5835
+[11-Mar-2023 15:43:26 UTC] PHP Notice:  Function Automattic\Jetpack\Assets::alias_textdomain was called <strong>incorrectly</strong>. Textdomain aliases should be registered before the <code>wp_default_scripts</code> hook. This notice was triggered by the <code>jetpack-admin-ui</code> domain. Please see <a href="https://wordpress.org/support/article/debugging-in-wordpress/">Debugging in WordPress</a> for more information.  in /home/kaurswor/public_html/wp-includes/functions.php on line 5835
+[11-Mar-2023 15:43:26 UTC] PHP Notice:  Function Automattic\Jetpack\Assets::alias_textdomain was called <strong>incorrectly</strong>. Textdomain aliases should be registered before the <code>wp_default_scripts</code> hook. This notice was triggered by the <code>jetpack-assets</code> domain. Please see <a href="https://wordpress.org/support/article/debugging-in-wordpress/">Debugging in WordPress</a> for more information.  in /home/kaurswor/public_html/wp-includes/functions.php on line 5835
+[11-Mar-2023 15:43:26 UTC] PHP Notice:  Function Automattic\Jetpack\Assets::alias_textdomain was called <strong>incorrectly</strong>. Textdomain aliases should be registered before the <code>wp_default_scripts</code> hook. This notice was triggered by the <code>jetpack-config</code> domain. Please see <a href="https://wordpress.org/support/article/debugging-in-wordpress/">Debugging in WordPress</a> for more information.  in /home/kaurswor/public_html/wp-includes/functions.php on line 5835
+[11-Mar-2023 15:43:26 UTC] PHP Notice:  Function Automattic\Jetpack\Assets::alias_textdomain was called <strong>incorrectly</strong>. Textdomain aliases should be registered before the <code>wp_default_scripts</code> hook. This notice was triggered by the <code>jetpack-connection</code> domain. Please see <a href="https://wordpress.org/support/article/debugging-in-wordpress/">Debugging in WordPress</a> for more information.  in /home/kaurswor/public_html/wp-includes/functions.php on line 5835
+[11-Mar-2023 15:43:26 UTC] PHP Notice:  Function Automattic\Jetpack\Assets::alias_textdomain was called <strong>incorrectly</strong>. Textdomain aliases should be registered before the <code>wp_default_scripts</code> hook. This notice was triggered by the <code>jetpack-jitm</code> domain. Please see <a href="https://wordpress.org/support/article/debugging-in-wordpress/">Debugging in WordPress</a> for more information.  in /home/kaurswor/public_html/wp-includes/functions.php on line 5835
+[11-Mar-2023 15:43:26 UTC] PHP Notice:  Function Automattic\Jetpack\Assets::alias_textdomain was called <strong>incorrectly</strong>. Textdomain aliases should be registered before the <code>wp_default_scripts</code> hook. This notice was triggered by the <code>jetpack-lazy-images</code> domain. Please see <a href="https://wordpress.org/support/article/debugging-in-wordpress/">Debugging in WordPress</a> for more information.  in /home/kaurswor/public_html/wp-includes/functions.php on line 5835
+[11-Mar-2023 15:43:26 UTC] PHP Notice:  Function Automattic\Jetpack\Assets::alias_textdomain was called <strong>incorrectly</strong>. Textdomain aliases should be registered before the <code>wp_default_scripts</code> hook. This notice was triggered by the <code>jetpack-licensing</code> domain. Please see <a href="https://wordpress.org/support/article/debugging-in-wordpress/">Debugging in WordPress</a> for more information.  in /home/kaurswor/public_html/wp-includes/functions.php on line 5835
+[11-Mar-2023 15:43:26 UTC] PHP Notice:  Function Automattic\Jetpack\Assets::alias_textdomain was called <strong>incorrectly</strong>. Textdomain aliases should be registered before the <code>wp_default_scripts</code> hook. This notice was triggered by the <code>jetpack-my-jetpack</code> domain. Please see <a href="https://wordpress.org/support/article/debugging-in-wordpress/">Debugging in WordPress</a> for more information.  in /home/kaurswor/public_html/wp-includes/functions.php on line 5835
+[11-Mar-2023 15:43:26 UTC] PHP Notice:  Function Automattic\Jetpack\Assets::alias_textdomain was called <strong>incorrectly</strong>. Textdomain aliases should be registered before the <code>wp_default_scripts</code> hook. This notice was triggered by the <code>jetpack-plugin-deactivation</code> domain. Please see <a href="https://wordpress.org/support/article/debugging-in-wordpress/">Debugging in WordPress</a> for more information.  in /home/kaurswor/public_html/wp-includes/functions.php on line 5835
+[11-Mar-2023 15:43:26 UTC] PHP Notice:  Function Automattic\Jetpack\Assets::alias_textdomain was called <strong>incorrectly</strong>. Textdomain aliases should be registered before the <code>wp_default_scripts</code> hook. This notice was triggered by the <code>jetpack-plugins-installer</code> domain. Please see <a href="https://wordpress.org/support/article/debugging-in-wordpress/">Debugging in WordPress</a> for more information.  in /home/kaurswor/public_html/wp-includes/functions.php on line 5835
+[11-Mar-2023 15:43:27 UTC] PHP Notice:  Function WP_Object_Cache::delete was called <strong>incorrectly</strong>. Cache key must be integer or non-empty string, NULL given. Please see <a href="https://wordpress.org/support/article/debugging-in-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 6.1.0.) in /home/kaurswor/public_html/wp-includes/functions.php on line 5835
+[11-Mar-2023 15:45:35 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.2". You are running 7.3.33. in /home/kaurswor/public_html/wp-content/plugins/critical-css-for-wp/css-extractor/vendor/composer/platform_check.php on line 24
+[11-Mar-2023 15:53:00 UTC] PHP Deprecated:  Creation of dynamic property SpeedyCache::$settings is deprecated in /home/kaurswor/public_html/wp-content/plugins/speedycache/init.php on line 100
+[11-Mar-2023 15:53:00 UTC] PHP Deprecated:  Creation of dynamic property SpeedyCache::$image is deprecated in /home/kaurswor/public_html/wp-content/plugins/speedycache/init.php on line 109
+[11-Mar-2023 15:53:00 UTC] PHP Deprecated:  Creation of dynamic property SpeedyCache::$license is deprecated in /home/kaurswor/public_html/wp-content/plugins/speedycache/init.php on line 110
+[11-Mar-2023 15:53:01 UTC] PHP Deprecated:  Creation of dynamic property SpeedyCache::$settings is deprecated in /home/kaurswor/public_html/wp-content/plugins/speedycache/init.php on line 100
+[11-Mar-2023 15:53:01 UTC] PHP Deprecated:  Creation of dynamic property SpeedyCache::$image is deprecated in /home/kaurswor/public_html/wp-content/plugins/speedycache/init.php on line 109
+[11-Mar-2023 15:53:01 UTC] PHP Deprecated:  Creation of dynamic property SpeedyCache::$license is deprecated in /home/kaurswor/public_html/wp-content/plugins/speedycache/init.php on line 110
+[11-Mar-2023 15:53:02 UTC] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/kaurswor/public_html/wp-content/plugins/wpforms-lite/vendor/woocommerce/action-scheduler/classes/schema/ActionScheduler_StoreSchema.php on line 46
+[11-Mar-2023 15:53:02 UTC] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/kaurswor/public_html/wp-content/plugins/wpforms-lite/vendor/woocommerce/action-scheduler/classes/schema/ActionScheduler_StoreSchema.php on line 50
+[11-Mar-2023 15:53:02 UTC] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/kaurswor/public_html/wp-content/plugins/wpforms-lite/vendor/woocommerce/action-scheduler/classes/schema/ActionScheduler_StoreSchema.php on line 52
+[11-Mar-2023 15:53:02 UTC] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/kaurswor/public_html/wp-content/plugins/wpforms-lite/vendor/woocommerce/action-scheduler/classes/schema/ActionScheduler_StoreSchema.php on line 56
+[11-Mar-2023 15:53:02 UTC] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/kaurswor/public_html/wp-content/plugins/wpforms-lite/vendor/woocommerce/action-scheduler/classes/schema/ActionScheduler_StoreSchema.php on line 72
+[11-Mar-2023 15:53:02 UTC] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/kaurswor/public_html/wp-content/plugins/wpforms-lite/vendor/woocommerce/action-scheduler/classes/schema/ActionScheduler_StoreSchema.php on line 114
+[11-Mar-2023 15:53:02 UTC] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/kaurswor/public_html/wp-content/plugins/wpforms-lite/vendor/woocommerce/action-scheduler/classes/schema/ActionScheduler_StoreSchema.php on line 118
+[11-Mar-2023 15:53:02 UTC] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/kaurswor/public_html/wp-content/plugins/wpforms-lite/vendor/woocommerce/action-scheduler/classes/schema/ActionScheduler_StoreSchema.php on line 119
+[11-Mar-2023 15:53:02 UTC] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/kaurswor/public_html/wp-content/plugins/wpforms-lite/vendor/woocommerce/action-scheduler/classes/schema/ActionScheduler_StoreSchema.php on line 120
+[11-Mar-2023 15:53:02 UTC] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/kaurswor/public_html/wp-content/plugins/wpforms-lite/vendor/woocommerce/action-scheduler/classes/schema/ActionScheduler_StoreSchema.php on line 121
+[11-Mar-2023 15:53:02 UTC] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/kaurswor/public_html/wp-content/plugins/wpforms-lite/vendor/woocommerce/action-scheduler/classes/schema/ActionScheduler_StoreSchema.php on line 122
+[11-Mar-2023 15:53:02 UTC] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/kaurswor/public_html/wp-content/plugins/wpforms-lite/vendor/woocommerce/action-scheduler/classes/schema/ActionScheduler_LoggerSchema.php on line 40
+[11-Mar-2023 15:53:02 UTC] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/kaurswor/public_html/wp-content/plugins/wpforms-lite/vendor/woocommerce/action-scheduler/classes/schema/ActionScheduler_LoggerSchema.php on line 44
+[11-Mar-2023 15:53:02 UTC] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/kaurswor/public_html/wp-content/plugins/wpforms-lite/vendor/woocommerce/action-scheduler/classes/schema/ActionScheduler_LoggerSchema.php on line 77
+[11-Mar-2023 15:53:02 UTC] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/kaurswor/public_html/wp-content/plugins/wpforms-lite/vendor/woocommerce/action-scheduler/classes/schema/ActionScheduler_LoggerSchema.php on line 81
+[11-Mar-2023 15:53:02 UTC] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/kaurswor/public_html/wp-content/plugins/wpforms-lite/vendor/woocommerce/action-scheduler/classes/schema/ActionScheduler_LoggerSchema.php on line 82
+[11-Mar-2023 15:53:02 UTC] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/kaurswor/public_html/wp-content/plugins/wpforms-lite/vendor/woocommerce/action-scheduler/classes/schema/ActionScheduler_LoggerSchema.php on line 83
+[11-Mar-2023 15:53:02 UTC] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/kaurswor/public_html/wp-content/plugins/wpforms-lite/vendor/woocommerce/action-scheduler/classes/schema/ActionScheduler_StoreSchema.php on line 46
+[11-Mar-2023 15:53:02 UTC] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/kaurswor/public_html/wp-content/plugins/wpforms-lite/vendor/woocommerce/action-scheduler/classes/schema/ActionScheduler_StoreSchema.php on line 50
+[11-Mar-2023 15:53:02 UTC] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/kaurswor/public_html/wp-content/plugins/wpforms-lite/vendor/woocommerce/action-scheduler/classes/schema/ActionScheduler_StoreSchema.php on line 52
+[11-Mar-2023 15:53:02 UTC] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/kaurswor/public_html/wp-content/plugins/wpforms-lite/vendor/woocommerce/action-scheduler/classes/schema/ActionScheduler_StoreSchema.php on line 56
+[11-Mar-2023 15:53:02 UTC] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/kaurswor/public_html/wp-content/plugins/wpforms-lite/vendor/woocommerce/action-scheduler/classes/schema/ActionScheduler_StoreSchema.php on line 72
+[11-Mar-2023 15:53:02 UTC] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/kaurswor/public_html/wp-content/plugins/wpforms-lite/vendor/woocommerce/action-scheduler/classes/schema/ActionScheduler_StoreSchema.php on line 114
+[11-Mar-2023 15:53:02 UTC] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/kaurswor/public_html/wp-content/plugins/wpforms-lite/vendor/woocommerce/action-scheduler/classes/schema/ActionScheduler_StoreSchema.php on line 118
+[11-Mar-2023 15:53:02 UTC] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/kaurswor/public_html/wp-content/plugins/wpforms-lite/vendor/woocommerce/action-scheduler/classes/schema/ActionScheduler_StoreSchema.php on line 119
+[11-Mar-2023 15:53:02 UTC] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/kaurswor/public_html/wp-content/plugins/wpforms-lite/vendor/woocommerce/action-scheduler/classes/schema/ActionScheduler_StoreSchema.php on line 120
+[11-Mar-2023 15:53:02 UTC] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/kaurswor/public_html/wp-content/plugins/wpforms-lite/vendor/woocommerce/action-scheduler/classes/schema/ActionScheduler_StoreSchema.php on line 121
+[11-Mar-2023 15:53:02 UTC] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/kaurswor/public_html/wp-content/plugins/wpforms-lite/vendor/woocommerce/action-scheduler/classes/schema/ActionScheduler_StoreSchema.php on line 122
+[11-Mar-2023 15:53:02 UTC] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/kaurswor/public_html/wp-content/plugins/wpforms-lite/vendor/woocommerce/action-scheduler/classes/schema/ActionScheduler_LoggerSchema.php on line 40
+[11-Mar-2023 15:53:02 UTC] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/kaurswor/public_html/wp-content/plugins/wpforms-lite/vendor/woocommerce/action-scheduler/classes/schema/ActionScheduler_LoggerSchema.php on line 44
+[11-Mar-2023 15:53:02 UTC] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/kaurswor/public_html/wp-content/plugins/wpforms-lite/vendor/woocommerce/action-scheduler/classes/schema/ActionScheduler_LoggerSchema.php on line 77
+[11-Mar-2023 15:53:02 UTC] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/kaurswor/public_html/wp-content/plugins/wpforms-lite/vendor/woocommerce/action-scheduler/classes/schema/ActionScheduler_LoggerSchema.php on line 81
+[11-Mar-2023 15:53:02 UTC] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/kaurswor/public_html/wp-content/plugins/wpforms-lite/vendor/woocommerce/action-scheduler/classes/schema/ActionScheduler_LoggerSchema.php on line 82
+[11-Mar-2023 15:53:02 UTC] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/kaurswor/public_html/wp-content/plugins/wpforms-lite/vendor/woocommerce/action-scheduler/classes/schema/ActionScheduler_LoggerSchema.php on line 83
+[11-Mar-2023 15:53:21 UTC] PHP Deprecated:  Creation of dynamic property SpeedyCache::$settings is deprecated in /home/kaurswor/public_html/wp-content/plugins/speedycache/init.php on line 100
+[11-Mar-2023 15:53:21 UTC] PHP Deprecated:  Creation of dynamic property SpeedyCache::$image is deprecated in /home/kaurswor/public_html/wp-content/plugins/speedycache/init.php on line 109
+[11-Mar-2023 15:53:21 UTC] PHP Deprecated:  Creation of dynamic property SpeedyCache::$license is deprecated in /home/kaurswor/public_html/wp-content/plugins/speedycache/init.php on line 110
+[11-Mar-2023 15:53:21 UTC] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/kaurswor/public_html/wp-content/plugins/wpforms-lite/vendor/woocommerce/action-scheduler/classes/schema/ActionScheduler_StoreSchema.php on line 46
+[11-Mar-2023 15:53:21 UTC] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/kaurswor/public_html/wp-content/plugins/wpforms-lite/vendor/woocommerce/action-scheduler/classes/schema/ActionScheduler_StoreSchema.php on line 50
+[11-Mar-2023 15:53:21 UTC] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/kaurswor/public_html/wp-content/plugins/wpforms-lite/vendor/woocommerce/action-scheduler/classes/schema/ActionScheduler_StoreSchema.php on line 52
+[11-Mar-2023 15:53:21 UTC] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/kaurswor/public_html/wp-content/plugins/wpforms-lite/vendor/woocommerce/action-scheduler/classes/schema/ActionScheduler_StoreSchema.php on line 56
+[11-Mar-2023 15:53:21 UTC] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/kaurswor/public_html/wp-content/plugins/wpforms-lite/vendor/woocommerce/action-scheduler/classes/schema/ActionScheduler_StoreSchema.php on line 72
+[11-Mar-2023 15:53:21 UTC] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/kaurswor/public_html/wp-content/plugins/wpforms-lite/vendor/woocommerce/action-scheduler/classes/schema/ActionScheduler_StoreSchema.php on line 114
+[11-Mar-2023 15:53:21 UTC] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/kaurswor/public_html/wp-content/plugins/wpforms-lite/vendor/woocommerce/action-scheduler/classes/schema/ActionScheduler_StoreSchema.php on line 118
+[11-Mar-2023 15:53:21 UTC] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/kaurswor/public_html/wp-content/plugins/wpforms-lite/vendor/woocommerce/action-scheduler/classes/schema/ActionScheduler_StoreSchema.php on line 119
+[11-Mar-2023 15:53:21 UTC] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/kaurswor/public_html/wp-content/plugins/wpforms-lite/vendor/woocommerce/action-scheduler/classes/schema/ActionScheduler_StoreSchema.php on line 120
+[11-Mar-2023 15:53:21 UTC] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/kaurswor/public_html/wp-content/plugins/wpforms-lite/vendor/woocommerce/action-scheduler/classes/schema/ActionScheduler_StoreSchema.php on line 121
+[11-Mar-2023 15:53:21 UTC] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/kaurswor/public_html/wp-content/plugins/wpforms-lite/vendor/woocommerce/action-scheduler/classes/schema/ActionScheduler_StoreSchema.php on line 122
+[11-Mar-2023 15:53:21 UTC] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/kaurswor/public_html/wp-content/plugins/wpforms-lite/vendor/woocommerce/action-scheduler/classes/schema/ActionScheduler_LoggerSchema.php on line 40
+[11-Mar-2023 15:53:21 UTC] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/kaurswor/public_html/wp-content/plugins/wpforms-lite/vendor/woocommerce/action-scheduler/classes/schema/ActionScheduler_LoggerSchema.php on line 44
+[11-Mar-2023 15:53:21 UTC] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/kaurswor/public_html/wp-content/plugins/wpforms-lite/vendor/woocommerce/action-scheduler/classes/schema/ActionScheduler_LoggerSchema.php on line 77
+[11-Mar-2023 15:53:21 UTC] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/kaurswor/public_html/wp-content/plugins/wpforms-lite/vendor/woocommerce/action-scheduler/classes/schema/ActionScheduler_LoggerSchema.php on line 81
+[11-Mar-2023 15:53:21 UTC] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/kaurswor/public_html/wp-content/plugins/wpforms-lite/vendor/woocommerce/action-scheduler/classes/schema/ActionScheduler_LoggerSchema.php on line 82
+[11-Mar-2023 15:53:21 UTC] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/kaurswor/public_html/wp-content/plugins/wpforms-lite/vendor/woocommerce/action-scheduler/classes/schema/ActionScheduler_LoggerSchema.php on line 83
+[11-Mar-2023 15:53:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kaurswor/public_html/wp-content/plugins/wpforms-lite/vendor/woocommerce/action-scheduler/classes/schema/ActionScheduler_LoggerSchema.php:77) in /home/kaurswor/public_html/wp-admin/includes/misc.php on line 1416
+[11-Mar-2023 15:53:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kaurswor/public_html/wp-content/plugins/wpforms-lite/vendor/woocommerce/action-scheduler/classes/schema/ActionScheduler_LoggerSchema.php:77) in /home/kaurswor/public_html/wp-includes/functions.php on line 6865
+[11-Mar-2023 15:53:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kaurswor/public_html/wp-content/plugins/wpforms-lite/vendor/woocommerce/action-scheduler/classes/schema/ActionScheduler_LoggerSchema.php:77) in /home/kaurswor/public_html/wp-admin/admin-header.php on line 9
+[11-Mar-2023 15:54:06 UTC] PHP Deprecated:  Return type of Requests_Cookie_Jar::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/kaurswor/public_html/wp-includes/Requests/Cookie/Jar.php on line 63
+[11-Mar-2023 15:54:06 UTC] PHP Deprecated:  Return type of Requests_Cookie_Jar::offsetGet($key) should either be compatible with ArrayAccess::offsetGet(mixed $offset): mixed, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/kaurswor/public_html/wp-includes/Requests/Cookie/Jar.php on line 73
+[11-Mar-2023 15:54:06 UTC] PHP Deprecated:  Return type of Requests_Cookie_Jar::offsetSet($key, $value) should either be compatible with ArrayAccess::offsetSet(mixed $offset, mixed $value): void, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/kaurswor/public_html/wp-includes/Requests/Cookie/Jar.php on line 89
+[11-Mar-2023 15:54:06 UTC] PHP Deprecated:  Return type of Requests_Cookie_Jar::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/kaurswor/public_html/wp-includes/Requests/Cookie/Jar.php on line 102
+[11-Mar-2023 15:54:06 UTC] PHP Deprecated:  Return type of Requests_Cookie_Jar::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/kaurswor/public_html/wp-includes/Requests/Cookie/Jar.php on line 111
+[11-Mar-2023 15:54:06 UTC] PHP Deprecated:  Return type of Requests_Utility_CaseInsensitiveDictionary::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/kaurswor/public_html/wp-includes/Requests/Utility/CaseInsensitiveDictionary.php on line 40
+[11-Mar-2023 15:54:06 UTC] PHP Deprecated:  Return type of Requests_Utility_CaseInsensitiveDictionary::offsetGet($key) should either be compatible with ArrayAccess::offsetGet(mixed $offset): mixed, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/kaurswor/public_html/wp-includes/Requests/Utility/CaseInsensitiveDictionary.php on line 51
+[11-Mar-2023 15:54:06 UTC] PHP Deprecated:  Return type of Requests_Utility_CaseInsensitiveDictionary::offsetSet($key, $value) should either be compatible with ArrayAccess::offsetSet(mixed $offset, mixed $value): void, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/kaurswor/public_html/wp-includes/Requests/Utility/CaseInsensitiveDictionary.php on line 68
+[11-Mar-2023 15:54:06 UTC] PHP Deprecated:  Return type of Requests_Utility_CaseInsensitiveDictionary::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/kaurswor/public_html/wp-includes/Requests/Utility/CaseInsensitiveDictionary.php on line 82
+[11-Mar-2023 15:54:06 UTC] PHP Deprecated:  Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/kaurswor/public_html/wp-includes/Requests/Utility/CaseInsensitiveDictionary.php on line 91
+[11-Mar-2023 15:56:04 UTC] PHP Deprecated:  Return type of Requests_Cookie_Jar::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/kaurswor/public_html/wp-includes/Requests/Cookie/Jar.php on line 63
+[11-Mar-2023 15:56:04 UTC] PHP Deprecated:  Return type of Requests_Cookie_Jar::offsetGet($key) should either be compatible with ArrayAccess::offsetGet(mixed $offset): mixed, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/kaurswor/public_html/wp-includes/Requests/Cookie/Jar.php on line 73
+[11-Mar-2023 15:56:04 UTC] PHP Deprecated:  Return type of Requests_Cookie_Jar::offsetSet($key, $value) should either be compatible with ArrayAccess::offsetSet(mixed $offset, mixed $value): void, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/kaurswor/public_html/wp-includes/Requests/Cookie/Jar.php on line 89
+[11-Mar-2023 15:56:04 UTC] PHP Deprecated:  Return type of Requests_Cookie_Jar::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/kaurswor/public_html/wp-includes/Requests/Cookie/Jar.php on line 102
+[11-Mar-2023 15:56:04 UTC] PHP Deprecated:  Return type of Requests_Cookie_Jar::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/kaurswor/public_html/wp-includes/Requests/Cookie/Jar.php on line 111
+[11-Mar-2023 15:56:05 UTC] PHP Deprecated:  Return type of Requests_Utility_CaseInsensitiveDictionary::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/kaurswor/public_html/wp-includes/Requests/Utility/CaseInsensitiveDictionary.php on line 40
+[11-Mar-2023 15:56:05 UTC] PHP Deprecated:  Return type of Requests_Utility_CaseInsensitiveDictionary::offsetGet($key) should either be compatible with ArrayAccess::offsetGet(mixed $offset): mixed, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/kaurswor/public_html/wp-includes/Requests/Utility/CaseInsensitiveDictionary.php on line 51
+[11-Mar-2023 15:56:05 UTC] PHP Deprecated:  Return type of Requests_Utility_CaseInsensitiveDictionary::offsetSet($key, $value) should either be compatible with ArrayAccess::offsetSet(mixed $offset, mixed $value): void, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/kaurswor/public_html/wp-includes/Requests/Utility/CaseInsensitiveDictionary.php on line 68
+[11-Mar-2023 15:56:05 UTC] PHP Deprecated:  Return type of Requests_Utility_CaseInsensitiveDictionary::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/kaurswor/public_html/wp-includes/Requests/Utility/CaseInsensitiveDictionary.php on line 82
+[11-Mar-2023 15:56:05 UTC] PHP Deprecated:  Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/kaurswor/public_html/wp-includes/Requests/Utility/CaseInsensitiveDictionary.php on line 91
+[11-Mar-2023 15:58:09 UTC] PHP Deprecated:  Return type of Requests_Cookie_Jar::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/kaurswor/public_html/wp-includes/Requests/Cookie/Jar.php on line 63
+[11-Mar-2023 15:58:09 UTC] PHP Deprecated:  Return type of Requests_Cookie_Jar::offsetGet($key) should either be compatible with ArrayAccess::offsetGet(mixed $offset): mixed, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/kaurswor/public_html/wp-includes/Requests/Cookie/Jar.php on line 73
+[11-Mar-2023 15:58:09 UTC] PHP Deprecated:  Return type of Requests_Cookie_Jar::offsetSet($key, $value) should either be compatible with ArrayAccess::offsetSet(mixed $offset, mixed $value): void, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/kaurswor/public_html/wp-includes/Requests/Cookie/Jar.php on line 89
+[11-Mar-2023 15:58:09 UTC] PHP Deprecated:  Return type of Requests_Cookie_Jar::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/kaurswor/public_html/wp-includes/Requests/Cookie/Jar.php on line 102
+[11-Mar-2023 15:58:09 UTC] PHP Deprecated:  Return type of Requests_Cookie_Jar::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/kaurswor/public_html/wp-includes/Requests/Cookie/Jar.php on line 111
+[11-Mar-2023 15:58:10 UTC] PHP Deprecated:  Return type of Requests_Utility_CaseInsensitiveDictionary::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/kaurswor/public_html/wp-includes/Requests/Utility/CaseInsensitiveDictionary.php on line 40
+[11-Mar-2023 15:58:10 UTC] PHP Deprecated:  Return type of Requests_Utility_CaseInsensitiveDictionary::offsetGet($key) should either be compatible with ArrayAccess::offsetGet(mixed $offset): mixed, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/kaurswor/public_html/wp-includes/Requests/Utility/CaseInsensitiveDictionary.php on line 51
+[11-Mar-2023 15:58:10 UTC] PHP Deprecated:  Return type of Requests_Utility_CaseInsensitiveDictionary::offsetSet($key, $value) should either be compatible with ArrayAccess::offsetSet(mixed $offset, mixed $value): void, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/kaurswor/public_html/wp-includes/Requests/Utility/CaseInsensitiveDictionary.php on line 68
+[11-Mar-2023 15:58:10 UTC] PHP Deprecated:  Return type of Requests_Utility_CaseInsensitiveDictionary::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/kaurswor/public_html/wp-includes/Requests/Utility/CaseInsensitiveDictionary.php on line 82
+[11-Mar-2023 15:58:10 UTC] PHP Deprecated:  Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/kaurswor/public_html/wp-includes/Requests/Utility/CaseInsensitiveDictionary.php on line 91
+[11-Mar-2023 16:01:49 UTC] PHP Deprecated:  Return type of Requests_Cookie_Jar::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/kaurswor/public_html/wp-includes/Requests/Cookie/Jar.php on line 63
+[11-Mar-2023 16:01:49 UTC] PHP Deprecated:  Return type of Requests_Cookie_Jar::offsetGet($key) should either be compatible with ArrayAccess::offsetGet(mixed $offset): mixed, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/kaurswor/public_html/wp-includes/Requests/Cookie/Jar.php on line 73
+[11-Mar-2023 16:01:49 UTC] PHP Deprecated:  Return type of Requests_Cookie_Jar::offsetSet($key, $value) should either be compatible with ArrayAccess::offsetSet(mixed $offset, mixed $value): void, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/kaurswor/public_html/wp-includes/Requests/Cookie/Jar.php on line 89
+[11-Mar-2023 16:01:49 UTC] PHP Deprecated:  Return type of Requests_Cookie_Jar::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/kaurswor/public_html/wp-includes/Requests/Cookie/Jar.php on line 102
+[11-Mar-2023 16:01:49 UTC] PHP Deprecated:  Return type of Requests_Cookie_Jar::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/kaurswor/public_html/wp-includes/Requests/Cookie/Jar.php on line 111
+[11-Mar-2023 16:01:50 UTC] PHP Deprecated:  Return type of Requests_Utility_CaseInsensitiveDictionary::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/kaurswor/public_html/wp-includes/Requests/Utility/CaseInsensitiveDictionary.php on line 40
+[11-Mar-2023 16:01:50 UTC] PHP Deprecated:  Return type of Requests_Utility_CaseInsensitiveDictionary::offsetGet($key) should either be compatible with ArrayAccess::offsetGet(mixed $offset): mixed, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/kaurswor/public_html/wp-includes/Requests/Utility/CaseInsensitiveDictionary.php on line 51
+[11-Mar-2023 16:01:50 UTC] PHP Deprecated:  Return type of Requests_Utility_CaseInsensitiveDictionary::offsetSet($key, $value) should either be compatible with ArrayAccess::offsetSet(mixed $offset, mixed $value): void, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/kaurswor/public_html/wp-includes/Requests/Utility/CaseInsensitiveDictionary.php on line 68
+[11-Mar-2023 16:01:50 UTC] PHP Deprecated:  Return type of Requests_Utility_CaseInsensitiveDictionary::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/kaurswor/public_html/wp-includes/Requests/Utility/CaseInsensitiveDictionary.php on line 82
+[11-Mar-2023 16:01:50 UTC] PHP Deprecated:  Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/kaurswor/public_html/wp-includes/Requests/Utility/CaseInsensitiveDictionary.php on line 91
+[18-Mar-2023 08:10:58 UTC] WordPress database error Duplicate entry 'https://kaursworld.com/' for key 'url' for query UPDATE wp43_critical_css_for_wp_urls SET `url` = 'https://kaursworld.com/' WHERE `url_id` = 1000000002 made by set_current_screen, WP_Screen->set_current_screen, do_action('current_screen'), WP_Hook->do_action, WP_Hook->apply_filters, class_critical_css_for_wp->ccfwp_custom_critical_css_generate, class_critical_css_for_wp->every_one_minutes_event_func_crtlcss, class_critical_css_for_wp->save_others_urls
+[18-Mar-2023 08:11:19 UTC] WordPress database error Duplicate entry 'https://kaursworld.com/' for key 'url' for query UPDATE wp43_critical_css_for_wp_urls SET `url` = 'https://kaursworld.com/' WHERE `url_id` = 1000000002 made by set_current_screen, WP_Screen->set_current_screen, do_action('current_screen'), WP_Hook->do_action, WP_Hook->apply_filters, class_critical_css_for_wp->ccfwp_custom_critical_css_generate, class_critical_css_for_wp->every_one_minutes_event_func_crtlcss, class_critical_css_for_wp->save_others_urls
+[18-Mar-2023 08:11:22 UTC] WordPress database error Duplicate entry 'https://kaursworld.com/' for key 'url' for query UPDATE wp43_critical_css_for_wp_urls SET `url` = 'https://kaursworld.com/' WHERE `url_id` = 1000000002 made by set_current_screen, WP_Screen->set_current_screen, do_action('current_screen'), WP_Hook->do_action, WP_Hook->apply_filters, class_critical_css_for_wp->ccfwp_custom_critical_css_generate, class_critical_css_for_wp->every_one_minutes_event_func_crtlcss, class_critical_css_for_wp->save_others_urls
+[19-Mar-2023 10:13:11 UTC] WordPress database error Duplicate entry 'https://kaursworld.com/' for key 'url' for query UPDATE wp43_critical_css_for_wp_urls SET `url` = 'https://kaursworld.com/' WHERE `url_id` = 1000000002 made by set_current_screen, WP_Screen->set_current_screen, do_action('current_screen'), WP_Hook->do_action, WP_Hook->apply_filters, class_critical_css_for_wp->ccfwp_custom_critical_css_generate, class_critical_css_for_wp->every_one_minutes_event_func_crtlcss, class_critical_css_for_wp->save_others_urls
+[19-Mar-2023 10:13:26 UTC] WordPress database error Duplicate entry 'https://kaursworld.com/' for key 'url' for query UPDATE wp43_critical_css_for_wp_urls SET `url` = 'https://kaursworld.com/' WHERE `url_id` = 1000000002 made by set_current_screen, WP_Screen->set_current_screen, do_action('current_screen'), WP_Hook->do_action, WP_Hook->apply_filters, class_critical_css_for_wp->ccfwp_custom_critical_css_generate, class_critical_css_for_wp->every_one_minutes_event_func_crtlcss, class_critical_css_for_wp->save_others_urls
+[19-Mar-2023 10:13:36 UTC] WordPress database error Duplicate entry 'https://kaursworld.com/' for key 'url' for query UPDATE wp43_critical_css_for_wp_urls SET `url` = 'https://kaursworld.com/' WHERE `url_id` = 1000000002 made by set_current_screen, WP_Screen->set_current_screen, do_action('current_screen'), WP_Hook->do_action, WP_Hook->apply_filters, class_critical_css_for_wp->ccfwp_custom_critical_css_generate, class_critical_css_for_wp->every_one_minutes_event_func_crtlcss, class_critical_css_for_wp->save_others_urls
+[19-Mar-2023 10:13:42 UTC] WordPress database error Duplicate entry 'https://kaursworld.com/' for key 'url' for query UPDATE wp43_critical_css_for_wp_urls SET `url` = 'https://kaursworld.com/' WHERE `url_id` = 1000000002 made by set_current_screen, WP_Screen->set_current_screen, do_action('current_screen'), WP_Hook->do_action, WP_Hook->apply_filters, class_critical_css_for_wp->ccfwp_custom_critical_css_generate, class_critical_css_for_wp->every_one_minutes_event_func_crtlcss, class_critical_css_for_wp->save_others_urls
+[19-Mar-2023 10:15:12 UTC] WordPress database error Duplicate entry 'https://kaursworld.com/' for key 'url' for query UPDATE wp43_critical_css_for_wp_urls SET `url` = 'https://kaursworld.com/' WHERE `url_id` = 1000000002 made by set_current_screen, WP_Screen->set_current_screen, do_action('current_screen'), WP_Hook->do_action, WP_Hook->apply_filters, class_critical_css_for_wp->ccfwp_custom_critical_css_generate, class_critical_css_for_wp->every_one_minutes_event_func_crtlcss, class_critical_css_for_wp->save_others_urls
+[19-Mar-2023 11:50:50 UTC] WordPress database error Duplicate entry 'https://kaursworld.com/' for key 'url' for query UPDATE wp43_critical_css_for_wp_urls SET `url` = 'https://kaursworld.com/' WHERE `url_id` = 1000000002 made by set_current_screen, WP_Screen->set_current_screen, do_action('current_screen'), WP_Hook->do_action, WP_Hook->apply_filters, class_critical_css_for_wp->ccfwp_custom_critical_css_generate, class_critical_css_for_wp->every_one_minutes_event_func_crtlcss, class_critical_css_for_wp->save_others_urls
+[19-Mar-2023 11:51:28 UTC] PHP Warning:  Array to string conversion in /home/kaurswor/public_html/wp-includes/formatting.php on line 1098
+[19-Mar-2023 11:58:50 UTC] WordPress database error Duplicate entry 'https://kaursworld.com/' for key 'url' for query UPDATE wp43_critical_css_for_wp_urls SET `url` = 'https://kaursworld.com/' WHERE `url_id` = 1000000002 made by set_current_screen, WP_Screen->set_current_screen, do_action('current_screen'), WP_Hook->do_action, WP_Hook->apply_filters, class_critical_css_for_wp->ccfwp_custom_critical_css_generate, class_critical_css_for_wp->every_one_minutes_event_func_crtlcss, class_critical_css_for_wp->save_others_urls
+[19-Mar-2023 11:59:01 UTC] PHP Warning:  Undefined array key "mailer" in /home/kaurswor/public_html/wp-content/plugins/gosmtp/main/settings.php on line 180
+[09-Apr-2023 06:42:26 UTC] PHP Deprecated:  Required parameter $disabled_text follows optional parameter $value in /home/kaurswor/public_html/wp-content/plugins/gravityforms/common.php on line 3181
+[09-Apr-2023 06:42:27 UTC] PHP Deprecated:  Required parameter $form follows optional parameter $name in /home/kaurswor/public_html/wp-content/plugins/gravityforms/includes/fields/class-gf-field-date.php on line 600
+[09-Apr-2023 06:42:27 UTC] PHP Deprecated:  Required parameter $disabled_text follows optional parameter $value in /home/kaurswor/public_html/wp-content/plugins/gravityforms/common.php on line 3181
+[09-Apr-2023 06:42:27 UTC] PHP Deprecated:  Required parameter $form follows optional parameter $name in /home/kaurswor/public_html/wp-content/plugins/gravityforms/includes/fields/class-gf-field-date.php on line 600
+[09-Apr-2023 06:42:27 UTC] PHP Fatal error:  Uncaught ValueError: version_compare(): Argument #3 ($operator) must be a valid comparison operator in /home/kaurswor/public_html/wp-content/plugins/gravityforms/gravityforms.php:4748
+Stack trace:
+#0 /home/kaurswor/public_html/wp-content/plugins/gravityforms/gravityforms.php(4748): version_compare()
+#1 /home/kaurswor/public_html/wp-includes/class-wp-hook.php(308): GFForms::maybe_auto_update()
+#2 /home/kaurswor/public_html/wp-includes/plugin.php(205): WP_Hook->apply_filters()
+#3 /home/kaurswor/public_html/wp-admin/includes/update.php(1093): apply_filters()
+#4 /home/kaurswor/public_html/wp-admin/includes/class-wp-plugins-list-table.php(234): wp_is_auto_update_forced_for_item()
+#5 /home/kaurswor/public_html/wp-admin/plugins.php(534): WP_Plugins_List_Table->prepare_items()
+#6 {main}
+  thrown in /home/kaurswor/public_html/wp-content/plugins/gravityforms/gravityforms.php on line 4748
+[09-Apr-2023 06:42:36 UTC] PHP Deprecated:  Required parameter $disabled_text follows optional parameter $value in /home/kaurswor/public_html/wp-content/plugins/gravityforms/common.php on line 3181
+[09-Apr-2023 06:42:36 UTC] PHP Deprecated:  Required parameter $form follows optional parameter $name in /home/kaurswor/public_html/wp-content/plugins/gravityforms/includes/fields/class-gf-field-date.php on line 600
+[09-Apr-2023 06:42:40 UTC] PHP Deprecated:  Required parameter $disabled_text follows optional parameter $value in /home/kaurswor/public_html/wp-content/plugins/gravityforms/common.php on line 3181
+[09-Apr-2023 06:42:40 UTC] PHP Deprecated:  Required parameter $form follows optional parameter $name in /home/kaurswor/public_html/wp-content/plugins/gravityforms/includes/fields/class-gf-field-date.php on line 600
+[09-Apr-2023 06:42:40 UTC] PHP Fatal error:  Uncaught ValueError: version_compare(): Argument #3 ($operator) must be a valid comparison operator in /home/kaurswor/public_html/wp-content/plugins/gravityforms/gravityforms.php:4748
+Stack trace:
+#0 /home/kaurswor/public_html/wp-content/plugins/gravityforms/gravityforms.php(4748): version_compare()
+#1 /home/kaurswor/public_html/wp-includes/class-wp-hook.php(308): GFForms::maybe_auto_update()
+#2 /home/kaurswor/public_html/wp-includes/plugin.php(205): WP_Hook->apply_filters()
+#3 /home/kaurswor/public_html/wp-admin/includes/update.php(1093): apply_filters()
+#4 /home/kaurswor/public_html/wp-admin/includes/class-wp-plugins-list-table.php(234): wp_is_auto_update_forced_for_item()
+#5 /home/kaurswor/public_html/wp-admin/plugins.php(534): WP_Plugins_List_Table->prepare_items()
+#6 {main}
+  thrown in /home/kaurswor/public_html/wp-content/plugins/gravityforms/gravityforms.php on line 4748
+[19-May-2023 02:22:39 UTC] PHP Parse error:  syntax error, unexpected identifier "register_deactivation_hook" in /home/kaurswor/public_html/wp-content/plugins/addname/addname.php on line 14
+[19-May-2023 02:22:40 UTC] PHP Parse error:  syntax error, unexpected identifier "register_deactivation_hook" in /home/kaurswor/public_html/wp-content/plugins/addname/addname.php on line 14
+[19-May-2023 02:22:40 UTC] PHP Parse error:  syntax error, unexpected identifier "register_deactivation_hook" in /home/kaurswor/public_html/wp-content/plugins/addname/addname.php on line 14
+[19-May-2023 02:24:23 UTC] PHP Parse error:  syntax error, unexpected identifier "register_deactivation_hook" in /home/kaurswor/public_html/wp-content/plugins/addname/addname.php on line 12
+[19-May-2023 02:24:25 UTC] PHP Parse error:  syntax error, unexpected identifier "register_deactivation_hook" in /home/kaurswor/public_html/wp-content/plugins/addname/addname.php on line 12
+[19-May-2023 02:24:25 UTC] PHP Parse error:  syntax error, unexpected identifier "register_deactivation_hook" in /home/kaurswor/public_html/wp-content/plugins/addname/addname.php on line 12
+[19-May-2023 02:24:49 UTC] PHP Parse error:  syntax error, unexpected identifier "register_deactivation_hook" in /home/kaurswor/public_html/wp-content/plugins/addname/addname.php on line 12
+[19-May-2023 02:24:51 UTC] PHP Parse error:  syntax error, unexpected identifier "register_deactivation_hook" in /home/kaurswor/public_html/wp-content/plugins/addname/addname.php on line 12
+[19-May-2023 02:24:51 UTC] PHP Parse error:  syntax error, unexpected identifier "register_deactivation_hook" in /home/kaurswor/public_html/wp-content/plugins/addname/addname.php on line 12
+[19-May-2023 02:45:53 UTC] PHP Deprecated:  Function has_cap was called with an argument that is <strong>deprecated</strong> since version 2.0.0! Usage of user levels is deprecated. Use capabilities instead. in /home/kaurswor/public_html/wp-includes/functions.php on line 5697
+[19-May-2023 02:45:53 UTC] PHP Deprecated:  Function has_cap was called with an argument that is <strong>deprecated</strong> since version 2.0.0! Usage of user levels is deprecated. Use capabilities instead. in /home/kaurswor/public_html/wp-includes/functions.php on line 5697
+[19-May-2023 02:45:54 UTC] PHP Deprecated:  Function has_cap was called with an argument that is <strong>deprecated</strong> since version 2.0.0! Usage of user levels is deprecated. Use capabilities instead. in /home/kaurswor/public_html/wp-includes/functions.php on line 5697
+[19-May-2023 02:46:22 UTC] PHP Deprecated:  Function has_cap was called with an argument that is <strong>deprecated</strong> since version 2.0.0! Usage of user levels is deprecated. Use capabilities instead. in /home/kaurswor/public_html/wp-includes/functions.php on line 5697
+[19-May-2023 02:46:22 UTC] PHP Deprecated:  Function has_cap was called with an argument that is <strong>deprecated</strong> since version 2.0.0! Usage of user levels is deprecated. Use capabilities instead. in /home/kaurswor/public_html/wp-includes/functions.php on line 5697
+[19-May-2023 02:46:22 UTC] PHP Deprecated:  Function has_cap was called with an argument that is <strong>deprecated</strong> since version 2.0.0! Usage of user levels is deprecated. Use capabilities instead. in /home/kaurswor/public_html/wp-includes/functions.php on line 5697
+[19-May-2023 02:46:22 UTC] PHP Deprecated:  Function has_cap was called with an argument that is <strong>deprecated</strong> since version 2.0.0! Usage of user levels is deprecated. Use capabilities instead. in /home/kaurswor/public_html/wp-includes/functions.php on line 5697
+[19-May-2023 02:50:32 UTC] PHP Deprecated:  Function has_cap was called with an argument that is <strong>deprecated</strong> since version 2.0.0! Usage of user levels is deprecated. Use capabilities instead. in /home/kaurswor/public_html/wp-includes/functions.php on line 5697
+[19-May-2023 02:50:32 UTC] PHP Deprecated:  Function has_cap was called with an argument that is <strong>deprecated</strong> since version 2.0.0! Usage of user levels is deprecated. Use capabilities instead. in /home/kaurswor/public_html/wp-includes/functions.php on line 5697
+[19-May-2023 02:50:32 UTC] PHP Deprecated:  Function has_cap was called with an argument that is <strong>deprecated</strong> since version 2.0.0! Usage of user levels is deprecated. Use capabilities instead. in /home/kaurswor/public_html/wp-includes/functions.php on line 5697
+[19-May-2023 02:51:28 UTC] PHP Deprecated:  Function has_cap was called with an argument that is <strong>deprecated</strong> since version 2.0.0! Usage of user levels is deprecated. Use capabilities instead. in /home/kaurswor/public_html/wp-includes/functions.php on line 5697
+[19-May-2023 02:51:28 UTC] PHP Deprecated:  Function has_cap was called with an argument that is <strong>deprecated</strong> since version 2.0.0! Usage of user levels is deprecated. Use capabilities instead. in /home/kaurswor/public_html/wp-includes/functions.php on line 5697
+[19-May-2023 02:51:31 UTC] PHP Deprecated:  Function has_cap was called with an argument that is <strong>deprecated</strong> since version 2.0.0! Usage of user levels is deprecated. Use capabilities instead. in /home/kaurswor/public_html/wp-includes/functions.php on line 5697
+[19-May-2023 02:51:31 UTC] PHP Deprecated:  Function has_cap was called with an argument that is <strong>deprecated</strong> since version 2.0.0! Usage of user levels is deprecated. Use capabilities instead. in /home/kaurswor/public_html/wp-includes/functions.php on line 5697
+[19-May-2023 02:51:31 UTC] PHP Deprecated:  Function has_cap was called with an argument that is <strong>deprecated</strong> since version 2.0.0! Usage of user levels is deprecated. Use capabilities instead. in /home/kaurswor/public_html/wp-includes/functions.php on line 5697
+[19-May-2023 02:53:48 UTC] PHP Deprecated:  Function has_cap was called with an argument that is <strong>deprecated</strong> since version 2.0.0! Usage of user levels is deprecated. Use capabilities instead. in /home/kaurswor/public_html/wp-includes/functions.php on line 5697
+[19-May-2023 02:53:48 UTC] PHP Deprecated:  Function has_cap was called with an argument that is <strong>deprecated</strong> since version 2.0.0! Usage of user levels is deprecated. Use capabilities instead. in /home/kaurswor/public_html/wp-includes/functions.php on line 5697
+[19-May-2023 02:53:48 UTC] PHP Deprecated:  Function has_cap was called with an argument that is <strong>deprecated</strong> since version 2.0.0! Usage of user levels is deprecated. Use capabilities instead. in /home/kaurswor/public_html/wp-includes/functions.php on line 5697
+[19-May-2023 03:04:06 UTC] PHP Warning:  Array to string conversion in /home/kaurswor/public_html/wp-content/plugins/addname/addname.php on line 39
+[19-May-2023 03:10:32 UTC] PHP Parse error:  syntax error, unexpected variable "$gettabledata", expecting "(" in /home/kaurswor/public_html/wp-content/plugins/addname/addname.php on line 41
+[19-May-2023 03:12:23 UTC] PHP Parse error:  syntax error, unexpected token "}", expecting "," or ";" in /home/kaurswor/public_html/wp-content/plugins/addname/addname.php on line 43
+[19-May-2023 03:12:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function shell_exec() in /home/kaurswor/public_html/wp-content/plugins/addname/addname.php:42
+Stack trace:
+#0 /home/kaurswor/public_html/wp-includes/class-wp-hook.php(308): addnamelist()
+#1 /home/kaurswor/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#2 /home/kaurswor/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#3 /home/kaurswor/public_html/wp-admin/admin.php(259): do_action()
+#4 {main}
+  thrown in /home/kaurswor/public_html/wp-content/plugins/addname/addname.php on line 42
+[19-May-2023 03:13:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function shell_exec() in /home/kaurswor/public_html/wp-content/plugins/addname/addname.php:42
+Stack trace:
+#0 /home/kaurswor/public_html/wp-includes/class-wp-hook.php(308): addnamelist()
+#1 /home/kaurswor/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#2 /home/kaurswor/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#3 /home/kaurswor/public_html/wp-admin/admin.php(259): do_action()
+#4 {main}
+  thrown in /home/kaurswor/public_html/wp-content/plugins/addname/addname.php on line 42
+[19-May-2023 03:13:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function shell_exec() in /home/kaurswor/public_html/wp-content/plugins/addname/addname.php:42
+Stack trace:
+#0 /home/kaurswor/public_html/wp-includes/class-wp-hook.php(308): addnamelist()
+#1 /home/kaurswor/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#2 /home/kaurswor/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#3 /home/kaurswor/public_html/wp-admin/admin.php(259): do_action()
+#4 {main}
+  thrown in /home/kaurswor/public_html/wp-content/plugins/addname/addname.php on line 42
+[19-May-2023 03:13:48 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "id" in /home/kaurswor/public_html/wp-content/plugins/addname/addname.php:42
+Stack trace:
+#0 /home/kaurswor/public_html/wp-includes/class-wp-hook.php(308): addnamelist()
+#1 /home/kaurswor/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#2 /home/kaurswor/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#3 /home/kaurswor/public_html/wp-admin/admin.php(259): do_action()
+#4 {main}
+  thrown in /home/kaurswor/public_html/wp-content/plugins/addname/addname.php on line 42
+[19-May-2023 03:14:48 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "name" in /home/kaurswor/public_html/wp-content/plugins/addname/addname.php:42
+Stack trace:
+#0 /home/kaurswor/public_html/wp-includes/class-wp-hook.php(308): addnamelist()
+#1 /home/kaurswor/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#2 /home/kaurswor/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#3 /home/kaurswor/public_html/wp-admin/admin.php(259): do_action()
+#4 {main}
+  thrown in /home/kaurswor/public_html/wp-content/plugins/addname/addname.php on line 42
+[19-May-2023 03:15:19 UTC] PHP Parse error:  syntax error, unexpected token "/" in /home/kaurswor/public_html/wp-content/plugins/addname/addname.php on line 44
+[19-May-2023 03:15:38 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "id" in /home/kaurswor/public_html/wp-content/plugins/addname/addname.php:42
+Stack trace:
+#0 /home/kaurswor/public_html/wp-includes/class-wp-hook.php(308): addnamelist()
+#1 /home/kaurswor/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#2 /home/kaurswor/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#3 /home/kaurswor/public_html/wp-admin/admin.php(259): do_action()
+#4 {main}
+  thrown in /home/kaurswor/public_html/wp-content/plugins/addname/addname.php on line 42
+[19-May-2023 03:20:21 UTC] PHP Parse error:  syntax error, unexpected token "}", expecting "," or ";" in /home/kaurswor/public_html/wp-content/plugins/addname/addname.php on line 48
+[19-May-2023 03:20:21 UTC] PHP Parse error:  syntax error, unexpected token "}", expecting "," or ";" in /home/kaurswor/public_html/wp-content/plugins/addname/addname.php on line 48
+[19-May-2023 03:31:20 UTC] PHP Warning:  include(/home/kaurswor/public_html/wp-content/plugins/addname/enqueuefiles.php): Failed to open stream: No such file or directory in /home/kaurswor/public_html/wp-content/plugins/addname/addname.php on line 29
+[19-May-2023 03:31:20 UTC] PHP Warning:  include(): Failed opening '/home/kaurswor/public_html/wp-content/plugins/addname/enqueuefiles.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kaurswor/public_html/wp-content/plugins/addname/addname.php on line 29
+[19-May-2023 12:32:43 UTC] PHP Warning:  Undefined variable $vertime in /home/kaurswor/public_html/wp-content/plugins/addname/enqueuefiles.php on line 4
+[19-May-2023 12:32:48 UTC] PHP Warning:  Undefined variable $vertime in /home/kaurswor/public_html/wp-content/plugins/addname/enqueuefiles.php on line 4
+[19-May-2023 12:32:51 UTC] PHP Warning:  Undefined variable $vertime in /home/kaurswor/public_html/wp-content/plugins/addname/enqueuefiles.php on line 4
+[19-May-2023 12:33:05 UTC] PHP Warning:  Undefined variable $vertime in /home/kaurswor/public_html/wp-content/plugins/addname/enqueuefiles.php on line 4
+[19-May-2023 12:40:24 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "time" in /home/kaurswor/public_html/wp-content/plugins/addname/enqueuefiles.php:2
+Stack trace:
+#0 /home/kaurswor/public_html/wp-content/plugins/addname/addname.php(29): include()
+#1 /home/kaurswor/public_html/wp-settings.php(453): include_once('/home/kaurswor/...')
+#2 /home/kaurswor/public_html/wp-config.php(99): require_once('/home/kaurswor/...')
+#3 /home/kaurswor/public_html/wp-load.php(50): require_once('/home/kaurswor/...')
+#4 /home/kaurswor/public_html/wp-admin/admin-ajax.php(22): require_once('/home/kaurswor/...')
+#5 {main}
+  thrown in /home/kaurswor/public_html/wp-content/plugins/addname/enqueuefiles.php on line 2
+[19-May-2023 12:40:26 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "time" in /home/kaurswor/public_html/wp-content/plugins/addname/enqueuefiles.php:2
+Stack trace:
+#0 /home/kaurswor/public_html/wp-content/plugins/addname/addname.php(29): include()
+#1 /home/kaurswor/public_html/wp-settings.php(453): include_once('/home/kaurswor/...')
+#2 /home/kaurswor/public_html/wp-config.php(99): require_once('/home/kaurswor/...')
+#3 /home/kaurswor/public_html/wp-load.php(50): require_once('/home/kaurswor/...')
+#4 /home/kaurswor/public_html/wp-admin/admin.php(34): require_once('/home/kaurswor/...')
+#5 {main}
+  thrown in /home/kaurswor/public_html/wp-content/plugins/addname/enqueuefiles.php on line 2
+[19-May-2023 12:40:55 UTC] PHP Warning:  Undefined variable $themecsspath in /home/kaurswor/public_html/wp-content/plugins/addname/enqueuefiles.php on line 6
+[19-May-2023 12:41:22 UTC] PHP Warning:  Undefined variable $timeup in /home/kaurswor/public_html/wp-content/plugins/addname/enqueuefiles.php on line 6
+[19-May-2023 12:41:41 UTC] PHP Warning:  Undefined variable $timeup in /home/kaurswor/public_html/wp-content/plugins/addname/enqueuefiles.php on line 5
+[19-May-2023 12:41:41 UTC] PHP Warning:  Undefined variable $timeup in /home/kaurswor/public_html/wp-content/plugins/addname/enqueuefiles.php on line 6
+[21-May-2023 04:15:23 UTC] PHP Fatal error:  Cannot redeclare add_wp_ajax_function() (previously declared in /home/kaurswor/public_html/wp-content/plugins/addname/adddata.php:11) in /home/kaurswor/public_html/wp-content/plugins/addname/adddata.php on line 7
+[21-May-2023 05:04:49 UTC] PHP Notice:  Function WP_Scripts::localize was called <strong>incorrectly</strong>. The <code>$l10n</code> parameter must be an array. To pass arbitrary data to scripts, use the <code>wp_add_inline_script()</code> function instead. Please see <a href="https://wordpress.org/documentation/article/debugging-in-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 5.7.0.) in /home/kaurswor/public_html/wp-includes/functions.php on line 5865
+[21-May-2023 05:05:36 UTC] PHP Notice:  Function WP_Scripts::localize was called <strong>incorrectly</strong>. The <code>$l10n</code> parameter must be an array. To pass arbitrary data to scripts, use the <code>wp_add_inline_script()</code> function instead. Please see <a href="https://wordpress.org/documentation/article/debugging-in-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 5.7.0.) in /home/kaurswor/public_html/wp-includes/functions.php on line 5865
+[21-May-2023 05:06:50 UTC] PHP Notice:  Function WP_Scripts::localize was called <strong>incorrectly</strong>. The <code>$l10n</code> parameter must be an array. To pass arbitrary data to scripts, use the <code>wp_add_inline_script()</code> function instead. Please see <a href="https://wordpress.org/documentation/article/debugging-in-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 5.7.0.) in /home/kaurswor/public_html/wp-includes/functions.php on line 5865
