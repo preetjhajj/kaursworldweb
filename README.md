@@ -1,2 +1,2 @@
 ## This is my kaursword website code
-You can visit kautsworld.com and see the user view.
+You can visit https://kaursworld.com and see the user view.
